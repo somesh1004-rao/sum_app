@@ -1,8 +1,0 @@
-numpy
-pandas
-Flask
-flask-cors
-gunicorn
-setuptools
-wheel
-
